@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Kevthiago, tenho 21 anos, sou do inteior de MG mas moro em BH desde 2023.
+- 🌱 Sou estudante de Ciência da Computação e atualmente estou aprendendo Java, Programação Orientada à Objetos, HTML5, CSS3, etc.
+- 💞️ Procuro estar em constante aprendizado e sempre colaborar com o conhecimento de todos.
+- 📫 Meus dados de contato estão disponíveis aqui no perfil.
+- ⚡ Curiosidade: Atleticano, jogador de LOL e namorado nas horas vagas.
