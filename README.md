@@ -2,4 +2,7 @@
 - 🌱 Sou estudante de Ciência da Computação e atualmente estou aprendendo Java, Programação Orientada à Objetos, HTML5, CSS3, etc.
 - 💞️ Procuro estar em constante aprendizado e sempre colaborar com o conhecimento de todos.
 - 📫 Meus dados de contato estão disponíveis aqui no perfil.
-- ⚡ Curiosidade: Atleticano, jogador de LOL e namorado nas horas vagas.
+- ⚡ Curiosidade: amante de Astronomia, Filosofia, História e Geopolítica.
+- ⚽ Sou atleticano.
+- 🏀 Meus hobbies são League Of Legends, futebol e músicas.
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
