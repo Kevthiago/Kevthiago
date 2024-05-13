@@ -38,7 +38,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kevin</code>, tenho 21 anos, moro em BH e sou programador desde 2022. Atualmente sou <code>aluno</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>/>
+<i><b>Olá</b> :wave:, sou o <code>Kevin</code>, tenho 21 anos, moro em BH e sou programador desde 2022. Atualmente sou <code>aluno</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva./>
 </div>
 
 -----
