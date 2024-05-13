@@ -22,9 +22,9 @@
 </td>
 <td><a href="https://www.instagram.com/Kevthiago/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/Kevthiago/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="cole o link do discord aqui" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
