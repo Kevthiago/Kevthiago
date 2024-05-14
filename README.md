@@ -45,7 +45,7 @@
 <div align="justify">
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Ciência da Computação.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Kevthiago/Linguagens-de-Programacao" target="_blank">aqui</a> e também <a href="https://github.com/Kevthiago/POO-Java" target="_blank">aqui</a><br />
+- ☕: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Kevthiago/Linguagens-de-Programacao" target="_blank">aqui</a> e também <a href="https://github.com/Kevthiago/POO-Java" target="_blank">aqui</a><br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/kevthiago" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - 🎮: &nbsp; Meus hobbies são <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://pt.wikipedia.org/wiki/Futebol" target="_blank">Futebol</a> e <a href="https://open.spotify.com/intl-pt" target="_blank">Músicas</a>.<br />
