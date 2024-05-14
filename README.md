@@ -113,6 +113,7 @@
 <a href="https://open.spotify.com/user/8ip7j4rgpz4jy4510d3o14hin?si=40d33060db414460&nd=1&dlsi=ada2bba75f374bdf" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://www.instagram.com/_kevthiagodev_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/Kevthiago" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Kevthiago"/>
 </div>
 
 -----
