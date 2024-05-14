@@ -59,7 +59,7 @@
 - 🎮: &nbsp; Meus hobbies são <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://pt.wikipedia.org/wiki/Futebol" target="_blank">Futebol</a> e <a href="https://open.spotify.com/intl-pt" target="_blank">Músicas</a>.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:kevinthiago126@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="" target="_blank">Currículo Lattes</a> para mais informações.
+<!--- :page_facing_up: &nbsp; Veja meu <a href="" target="_blank">Currículo Lattes</a> para mais informações.-->
 </p>
 </div>
 </div>
