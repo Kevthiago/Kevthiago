@@ -20,11 +20,11 @@
 </td>
 <td><a href="https://wa.me/5531996597558" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/kev_thiago/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/kev_thiago/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="cole o link do discord aqui" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="cole o link do discord aqui" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
