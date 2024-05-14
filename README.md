@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://wa.me/5531996597558" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/kev_thiago/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/insta2%20(1).png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/_kevthiagodev_/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/insta2%20(1).png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
