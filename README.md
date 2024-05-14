@@ -118,4 +118,8 @@
 
 -----
 
+<img align="center" alt="Footer2" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/footer-gray.gif?type=waving&height=100&color=gray&section=footer"/>
+
+-----
+
 <!-- Obrigado pela visita! -->
