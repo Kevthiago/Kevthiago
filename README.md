@@ -118,13 +118,4 @@
 
 -----
 
-<div align="center">
-
-<div align="center">
-<img align="right" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/KEVIN-THIAGO-14-05-2024.gif?raw=true" width="320px" height="200px"/>
-</div>                                 
-
-</div>
-
-
 <!-- Obrigado pela visita! -->
