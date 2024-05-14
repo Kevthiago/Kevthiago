@@ -130,7 +130,6 @@
 <a href="https://www.last.fm/pt/user/8ip7j4rgpz4jy4510d3o14hin" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=8ip7j4rgpz4jy4510d3o14hin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=8ip7j4rgpz4jy4510d3o14hin&count=10"/>
 </div>
 <div>
 
