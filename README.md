@@ -121,7 +121,7 @@
 <div align="center">
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/KEVIN-THIAGO-14-05-2024.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/KEVIN-THIAGO-14-05-2024.gif?raw=true" width="300px" height="200px"/>
 </div>                                 
 
 </div>
