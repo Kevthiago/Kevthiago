@@ -24,7 +24,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="cole o link do discord aqui" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord2%20(1).png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/.kevinthiago" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/discord2%20(1).png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -106,5 +106,27 @@
 </div>
 
 -----
+
+<div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1">Pix</td>
+</tr> 
+<tr>
+<td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+</tr>
+</table>
+<a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kevinthiago126@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531996597558" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://discordapp.com/users/.kevinthiago" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/8ip7j4rgpz4jy4510d3o14hin?si=45c49575a1ba4cb7" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/_kevthiagodev_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+0000-0001-7538-5927" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://github.com/Kevthiago" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+-----
+
 
 <!-- Obrigado pela visita! -->
