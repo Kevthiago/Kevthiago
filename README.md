@@ -91,6 +91,8 @@
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.bloodshed.net/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/dev-visual-c.png?raw=true"/></a></code>
+&nbsp;
 
 -----
 
