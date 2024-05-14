@@ -109,9 +109,6 @@
 
 <div>
 <table align="right">
-<tr>
- <td align="center" colspan="1">Pix</td>
-</tr> 
 </table>
 <a href="https://www.linkedin.com/in/kevin-thiago-15577520b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kevinthiago126@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
