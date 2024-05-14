@@ -133,7 +133,7 @@
 
 -----
 
-<div align="center">
+<div align="center center">
 
 ```text
 
