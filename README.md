@@ -14,7 +14,7 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Kevthiago" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/Kevthiago" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:kevinthiago126@gmail.com" target="_blank"><img src="https://github.com/Kevthiago/Kevthiago/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
