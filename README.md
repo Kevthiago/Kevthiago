@@ -151,16 +151,4 @@
 
 -----
 
-<div>
- <td>
-| Créditos: <a href="https://github.com/Kevthiago" target="_blank">© 2024 Kevin</a><br />
-| Última atualização: 14/05/2024
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
 <!-- Obrigado pela visita! -->
