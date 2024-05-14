@@ -40,10 +40,6 @@
 -----
 
 <div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/anonimous-hacker.gif?raw=true" width="320px" height="280px"/>
-</div>
-
 <img height="20" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
