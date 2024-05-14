@@ -83,8 +83,6 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/vbs.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/git.png?raw=true"/></a></code>
