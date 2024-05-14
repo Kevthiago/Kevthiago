@@ -120,15 +120,9 @@
 
 <div align="center">
 
-```text
-
-eco " __ __ ____ _ __ ____ _ __ ______ __ __ ____ ___ _____ ____ ";
-echo " / //_// __/| | / // _// |/ / /_ __// // // _// _ | / ___// __ \";
-echo " / ,< / _/ | |/ /_/ / / / / / / _ /_/ / / __ |/ (_ // /_/ /";
-echo "/_/|_|/___/ |___//___//_/|_/ /_/ /_//_//___//_/ |_|\___/ \____/ ";
-eco " ";
-
-```                                        
+<div>
+<img align="right" alt="GIF" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/KEVIN-THIAGO-14-05-2024.gif?raw=true" width="340px" height="520px"/>
+</div>                                 
 
 </div>
 
