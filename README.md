@@ -79,7 +79,7 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://github.com/Kevthiago/Kevthiago/blob/main/img/postman-icon.png" target="_blank"><img width="32" height="32" src="https://www.postman.com/"/></a></code>
+<code><a href="https://github.com/Kevthiago/Kevthiago/blob/main/img/Postman.png" target="_blank"><img width="32" height="32" src="https://www.postman.com/"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
