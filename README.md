@@ -79,7 +79,13 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
+<code><a href="https://github.com/Kevthiago/Kevthiago/blob/main/img/postman-icon.png" target="_blank"><img width="32" height="32" src="https://www.postman.com/"/></a></code>
+&nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/mysql.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://dbeaver.io" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/DBeaver.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.sqlite.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/SQLite.png"/></a></code>
 &nbsp; 
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/git.png?raw=true"/></a></code>
 &nbsp; 
