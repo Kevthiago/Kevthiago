@@ -71,6 +71,10 @@
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
+<code><a href="https://react.dev/" target="_blank"><img width="32" height="32" src="?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://reactnative.dev/" target="_blank"><img width="32" height="32" src="?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://pt.wikipedia.org/wiki/Swing_(Java)" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/javaswing.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/html.svg?raw=true"/></a></code>
