@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Kevin</code>, tenho 22 anos, moro em BH e sou programador desde 2023. Atualmente sou <code>aluno</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i>
+<i><b>Olá</b> :wave:, sou o <code>Kevin</code>, tenho 23 anos, moro em BH e sou programador desde 2023. Atualmente sou <code>aluno</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.</i>
 </div>
 
 -----
@@ -48,7 +48,7 @@
 - ☕: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Kevthiago/Linguagens-de-Programacao" target="_blank">aqui</a> e também <a href="https://github.com/Kevthiago/POO-Java" target="_blank">aqui</a><br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/kevthiago" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- 🎮: &nbsp; Meus hobbies são <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://pt.wikipedia.org/wiki/Futebol" target="_blank">Futebol</a> e <a href="https://open.spotify.com/intl-pt" target="_blank">Músicas</a> e <a href="https://pt.wikipedia.org/wiki/Corrida" target="_blank">Corrida</a><br/>
+- 🎮: &nbsp; Meus hobbies são <a href="https://www.rockstargames.com/br/reddeadredemption" target="_blank">Games</a>, <a href="https://pt.wikipedia.org/wiki/Futebol" target="_blank">Futebol</a> e <a href="https://open.spotify.com/intl-pt" target="_blank">Músicas</a> e <a href="https://pt.wikipedia.org/wiki/Corrida" target="_blank">Corrida</a><br/>
  - 🧑‍🚀 &nbsp; Amo estudar e conversar sobre <a href="https://pt.wikipedia.org/wiki/Astronomia" target="_blank">Astronomia</a>, <a href="https://pt.wikipedia.org/wiki/Geopol%C3%ADtica" target="_blank">Geopolítica</a> e <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria" target="_blank">História</a>.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:kevinthiago126@gmail.com" target="_blank">e-mail</a> pessoal.<br />
