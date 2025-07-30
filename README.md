@@ -49,7 +49,7 @@
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/kevthiago" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - 🎮: &nbsp; Meus hobbies são <a href="https://www.rockstargames.com/br/reddeadredemption" target="_blank">Games</a>, <a href="https://pt.wikipedia.org/wiki/Futebol" target="_blank">Futebol</a> e <a href="https://open.spotify.com/intl-pt" target="_blank">Músicas</a> e <a href="https://pt.wikipedia.org/wiki/Corrida" target="_blank">Corrida</a><br/>
- - 🧑‍🚀 &nbsp; Amo estudar e conversar sobre <a href="https://pt.wikipedia.org/wiki/Filosofia" target=_blank>Filosofia</a> <a href="https://pt.wikipedia.org/wiki/Astronomia" target="_blank">Astronomia</a>, <a href="https://pt.wikipedia.org/wiki/Geopol%C3%ADtica" target="_blank">Geopolítica</a> e <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria" target="_blank">História</a>.<br />
+ - 🧑‍🚀 &nbsp; Amo estudar e conversar sobre <a href="https://pt.wikipedia.org/wiki/Filosofia" target=_blank>Filosofia</a>, <a href="https://pt.wikipedia.org/wiki/Astronomia" target="_blank">Astronomia</a>, <a href="https://pt.wikipedia.org/wiki/Geopol%C3%ADtica" target="_blank">Geopolítica</a> e <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria" target="_blank">História</a>.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:kevinthiago126@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 <!--- :page_facing_up: &nbsp; Veja meu <a href="" target="_blank">Currículo Lattes</a> para mais informações.-->
