@@ -132,7 +132,18 @@
 
 -----
 
-![Snake animation](https://github.com/kevthiago/Kevthiago/blob/output/github-snake.svg)
+<div align="center">
+  <h2>🐍 Minhas Contribuições</h2>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevthiago/Kevthiago/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevthiago/Kevthiago/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/kevthiago/Kevthiago/output/github-snake.svg" width="100%">
+  </picture>
+
+  <br/>
+  <hr/>
+</div>
 
 -----
 
