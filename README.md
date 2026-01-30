@@ -77,13 +77,10 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp;
-
-<code><a href="https://n8n.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
+<code><a href="https://n8n.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/n8n-color.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://n8n.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
+<code><a href="https://copilotstudio.microsoft.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/copilot-color.png?raw=true"/></a></code>
 &nbsp;
-
-
 <code><a href="https://pt.wikipedia.org/wiki/Swing_(Java)" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/javaswing.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/Postman.png?raw=true"/></a></code>
