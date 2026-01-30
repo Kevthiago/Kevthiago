@@ -65,25 +65,28 @@
 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/cpp.svg?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://react.dev/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/css.svg?raw=true"/></a></code>
+<code><a href="https://react.dev/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/atom.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://reactnative.dev/" target="_blank"><img width="32" height="32" src="?raw=true"/></a></code>
+<code><a href="https://reactnative.dev/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/atom.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://pt.wikipedia.org/wiki/Swing_(Java)" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/javaswing.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;
+
+<code><a href="https://n8n.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://n8n.io/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;
+
+
+<code><a href="https://pt.wikipedia.org/wiki/Swing_(Java)" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/javaswing.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://github.com/Kevthiago/Kevthiago/blob/main/img/Postman.png" target="_blank"><img width="32" height="32" src="https://www.postman.com/"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/Postman.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
@@ -99,6 +102,10 @@
 &nbsp;
 <code><a href="https://www.bloodshed.net/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/dev-visual-c.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/c.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/Kevthiago/Kevthiago/blob/main/img/cpp.svg?raw=true"/></a></code>
+&nbsp; 
 
 -----
 
