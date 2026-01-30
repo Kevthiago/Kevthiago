@@ -132,7 +132,7 @@
 
 -----
 
-
+![Snake animation](https://github.com/kevthiago/Kevthiago/blob/output/github-snake.svg)
 
 -----
 
