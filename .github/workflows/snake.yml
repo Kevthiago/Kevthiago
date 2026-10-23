@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # Roda automaticamente a cada 24 horas
+  # Roda automaticamente a cada 6 horas
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */6 * * *"
   
   # Permite rodar manualmente a qualquer momento
   workflow_dispatch:
@@ -24,9 +24,12 @@ jobs:
     steps:
       # Gera a animação da cobrinha
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Token pessoal (secret SNAKE_TOKEN) para incluir as contribuições privadas;
+          # sem ele, usa o token padrão do Actions, que só enxerga as públicas
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
